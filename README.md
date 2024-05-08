@@ -70,7 +70,9 @@ Need to include an FAQ section.
 
 
 ## Inspiration
-- Primary: https://dribbble.com/shots/24105894-Walthinv-Investment-Landing-Page 
+- Primary: 
+   - https://agensip-wealthinv.framer.website/ 
+   - https://dribbble.com/shots/24105894-Walthinv-Investment-Landing-Page 
 - Dribble collection
 
 ## Process
@@ -81,6 +83,9 @@ Need to include an FAQ section.
 - Build UI components
 - Page wireframes
 - Section wireframes
+
+# Feature Pipeline
+- Saved/Hearted Posts in blog using localStorage.
 
 # Versioning
 0.0.0
